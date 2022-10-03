@@ -1,12 +1,14 @@
-# Scientific computing with GPUs
+# Introduction to scientific computing with GPUs
 
-## Topics introduced
+*Contains notebooks, code, and slides*
+
+## Topics
 
 1. RAPIDS and CUDA-X for drop-in GPU-accelerated libraries
 2. CuPy and Numba for GPU accelerated Python code
 3. torch, reticulate, and cuda.ml for running GPU's with R
 
-## Tools, libraries, and frameworks used:
+## Tools, libraries, and frameworks used
 
 * [RAPIDS](https://rapids.ai/)
 * [CUDA-X](https://developer.nvidia.com/gpu-accelerated-libraries)
